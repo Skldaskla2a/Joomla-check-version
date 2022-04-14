@@ -1,0 +1,1 @@
+# Joomla-check-version
